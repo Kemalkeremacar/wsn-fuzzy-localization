@@ -1,7 +1,7 @@
 # Bulanık Mantık ile Kablosuz Sensör Ağlarında Düğüm Lokalizasyonu
 
 Bu proje, Kablosuz Sensör Ağlarında (WSN) düğüm lokalizasyonu problemini Mamdani Bulanık Çıkarım Sistemi kullanarak çözmektedir. Sistem, çeşitli ağ parametrelerine dayanarak Ortalama Lokalizasyon Hatasını (ALE) tahmin etmektedir.
-
+ 
 ## Proje Genel Bakış
 
 Proje, UCI Machine Learning Repository'den alınan bir veri setini kullanarak WSN'lerde lokalizasyon hatalarını tahmin etmek için bir bulanık mantık sistemi geliştirmektedir. Sistem, tahmin doğruluğunu optimize etmek için farklı üyelik fonksiyonları ve berraklaştırma yöntemleri uygulamaktadır.
