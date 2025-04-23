@@ -80,4 +80,4 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için LICENSE dosya
 
 - Veri seti kaynağı: UCI Machine Learning Repository
 - Ders: Esnek Hesaplama
-- Kurum: [Üniversite Adınız] 
+- Kurum: Bursa Teknik Üniversitesi
